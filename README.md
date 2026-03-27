@@ -1,1 +1,60 @@
-# kernelbye
+# Kernel Bye BOT1W1 Engineering Stream
+
+## Module 1: Vex V5 Parts (1 week)
+
+- Brains
+- Motors
+- Distance Sensors
+- Optical Sensors
+- Color Sensors
+- Rotation Sensor
+- Wires
+
+## Module 2: Components of a Robot (1 week)
+
+- Drivetrains
+- Intakes
+- Outtakes
+- Aligners
+- Wire Management
+- Sensor Integration
+
+## Module 3: Planning a Robot (2-3 weeks)
+
+- Using OnShape (for starters)
+- Fusion 360
+- CADding to present ideas to teammates
+- Making seperate assemblies
+- Switching between tabs in CAD to tell a story
+
+## Module 4: Assembling a Drivetrain (1 week)
+
+- Basic Drivetrains
+- X-Drivetrains
+- Asterisk Drivetrains
+- Tank Drivetrains
+- Drivetrains have to be very reliable, and can set a standard for your robot
+- Wheel + Immediate Axle Design all the way to Frames
+- Kepnuts vs. Nylocks ("rubber nuts")
+
+## Module 5: Assembling an Intake (2 weeks)
+
+- Gentle input of a game element
+- Storage Pathway
+- Archetypes of Vex Robots (C-bots, S-bots, and other nicknames depending on season)
+- How to test an intake?
+- The best intakes often clog the least
+- Bracing: The mathematics behind one of the strongest structures
+
+## Module 6: Assembling an Outtake (1 week)
+
+- Does not mean symmetry with intake
+- Performance is tested /10 tries
+- Good robots pass all 10 times
+- General guidelines to increase efficiency
+
+## Module 7: Putting a Robot Together and Testing It (Duration may vary)
+
+- Asking other teams feedback
+- Asking drivers to test the robot
+- Insisting on drivers recieving 30-60 hours of training 
