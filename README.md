@@ -22,7 +22,6 @@
 ## Module 3: Planning a Robot (2-3 weeks)
 
 - Using OnShape (for starters)
-- Fusion 360
 - CADding to present ideas to teammates
 - Making seperate assemblies
 - Switching between tabs in CAD to tell a story
