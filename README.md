@@ -27,7 +27,14 @@
 - Making seperate assemblies
 - Switching between tabs in CAD
 
-## Module 4: Assembling a Drivetrain (1 week)
+## Module 4: The Engineering Notebook
+
+- The elements of a good notebook
+- FMEA matrices for documenting risks and prioritization
+- Aligning with the EDP
+- Following Vex's engineering notebook rubric
+
+## Module 5: Assembling a Drivetrain (1 week)
 
 - Basic Drivetrains
 - X-Drivetrains
@@ -38,7 +45,7 @@
 - Screwjoints
 - Kepnuts vs. Nylocks
 
-## Module 5: Assembling an Intake (2 weeks)
+## Module 6: Assembling an Intake (2 weeks)
 
 - Gentle input of a game element
 - Storage Pathway
@@ -47,14 +54,14 @@
 - The best intakes often clog the least
 - Bracing: The mathematics behind one of the strongest structures
 
-## Module 6: Assembling an Outtake (1 week)
+## Module 7: Assembling an Outtake (1 week)
 
 - Does not mean symmetry with intake
 - Performance is tested /10 tries
 - Good robots pass all 10 times
 - General guidelines to increase efficiency
 
-## Module 7: Putting a Robot Together and Testing It
+## Module 8: Putting a Robot Together and Testing It
 
 - Asking other teams feedback
 - Asking drivers to test the robot
