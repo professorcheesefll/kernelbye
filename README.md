@@ -16,24 +16,26 @@
 - Intakes
 - Outtakes
 - Aligners
+- Claws/Hands (for Override)
 - Wire Management
 - Sensor Integration
 
 ## Module 3: Planning a Robot (2-3 weeks)
 
-- Using OnShape (for starters)
+- Using OnShape
 - CADding to present ideas to teammates
 - Making seperate assemblies
-- Switching between tabs in CAD to tell a story
+- Switching between tabs in CAD
 
 ## Module 4: Assembling a Drivetrain (1 week)
 
 - Basic Drivetrains
 - X-Drivetrains
 - Asterisk Drivetrains
-- Tank Drivetrains
-- Drivetrains have to be very reliable, and can set a standard for your robot
-- Wheel + Immediate Axle Design all the way to Frames
+- **Tank Drivetrains** (most suitable for Override)
+- Drivetrains have to be very reliable
+- Wheel + Standard Axles
+- Screwjoints
 - Kepnuts vs. Nylocks
 
 ## Module 5: Assembling an Intake (2 weeks)
@@ -52,7 +54,7 @@
 - Good robots pass all 10 times
 - General guidelines to increase efficiency
 
-## Module 7: Putting a Robot Together and Testing It (Duration may vary)
+## Module 7: Putting a Robot Together and Testing It
 
 - Asking other teams feedback
 - Asking drivers to test the robot
