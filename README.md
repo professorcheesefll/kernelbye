@@ -1,4 +1,4 @@
-# Kernel Bye BOT1W1 Engineering Stream
+# BOT1W1 Engineering Stream
 
 ## Module 1: Vex V5 Parts (1 week)
 
