@@ -34,7 +34,7 @@
 - Tank Drivetrains
 - Drivetrains have to be very reliable, and can set a standard for your robot
 - Wheel + Immediate Axle Design all the way to Frames
-- Kepnuts vs. Nylocks ("rubber nuts")
+- Kepnuts vs. Nylocks
 
 ## Module 5: Assembling an Intake (2 weeks)
 
